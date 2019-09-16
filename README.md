@@ -1,0 +1,1 @@
+# Block-found-on-PPLNS-8798900-Network-Difficulty-146.51-T-Pool-Hashrate-492.86-G-s-Miners-total-
